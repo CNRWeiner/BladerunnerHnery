@@ -1,0 +1,43 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+
+# Visual Studio
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Build files
+Build/
+*.log
+
+# Mac
+.DS_Store
+
+# Linux
+*.so
+
+# Rider
+.idea/
+
+# Packaging
+*.ipa
+*.apk
+
+# Crash reports
+crashinfo-*
+
+# Ignore compiled files
+*.pdb
+*.obj
+*.exe
